@@ -92,3 +92,4 @@ else
 {
   document.querySelector("h1").innerHTML="Player 2 win!";
 }
+
